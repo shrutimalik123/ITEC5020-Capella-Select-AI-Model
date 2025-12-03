@@ -33,8 +33,8 @@ graph TD
     NLP -->|Generates SQL| DB[(🗄️ MySQL EMR Database)]
     
     subgraph "AI Core"
-        NLP[Text-to-SQL Model<br/>(Fine-Tuned LLM/BERT)]
-        Pred[Predictive Model<br/>(Gradient Boosting)]
+        NLP["Text-to-SQL Model<br/>(Fine-Tuned LLM/BERT)"]
+        Pred["Predictive Model<br/>(Gradient Boosting)"]
     end
     
     DB -->|Retrieved Patient Data| Pred
