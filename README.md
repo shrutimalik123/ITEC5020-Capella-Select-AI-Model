@@ -14,6 +14,11 @@ The paper justifies the choice of a dual-model system specifically engineered to
 
 File: WEEK9.pdf (The full 4–5 page research paper on model selection)
 
+## 📊 Project Presentation
+
+Access the full presentation slides here:
+[**ITEC5020 Capella Select AI Model Presentation**](https://docs.google.com/presentation/d/1ic1YDwGli7wBW9j_UWFrOegbxu89KGYOt8L9FycFzMg/edit?usp=sharing)
+
 Core AI Architecture
 
 The research paper proposes and justifies two distinct AI models, each addressing a critical function of the chatbot interface:
